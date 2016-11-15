@@ -1,3 +1,4 @@
+/*
 package com.ntsebryk;
 
 import org.springframework.boot.SpringApplication;
@@ -10,3 +11,4 @@ public class RestSimpleAppApplication {
 		SpringApplication.run(RestSimpleAppApplication.class, args);
 	}
 }
+*/

@@ -1,4 +1,4 @@
-package com.ntsebryk.bookmarks;
+package com.ntsebryk.basic.bookmarks;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 

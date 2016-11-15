@@ -1,4 +1,4 @@
-package com.ntsebryk.bookmarks;
+package com.ntsebryk.hateoas.bookmarks;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

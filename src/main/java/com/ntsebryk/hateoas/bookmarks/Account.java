@@ -1,4 +1,4 @@
-package com.ntsebryk.bookmarks;
+package com.ntsebryk.hateoas.bookmarks;
 
 /**
  * Created by ntsebryk on 09.11.2016.
